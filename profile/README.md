@@ -2,12 +2,15 @@
 
 
 <br>
-
+<br>
 
     ⛹🏻‍♂️ 우리 동네 위치 기반 운동 친구 구인 플랫폼 
     
- 
+https://gabozago-frontend.vercel.app/
 
+
+<br>
+<br>
 
 ## 🐥 멤버
 
@@ -47,3 +50,7 @@
         </td>
     </tr>
 </table>
+
+<br>
+<br>
+
