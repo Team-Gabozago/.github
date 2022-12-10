@@ -6,6 +6,9 @@
     
 https://gabozago-frontend.vercel.app/
 
+<br>
+<br>
+
 ![넘블 14조  WANTU 원투_page-0001](https://user-images.githubusercontent.com/61671343/206655000-e48e02f0-e79b-47a2-a241-bd8b6c9a1513.jpg)
 
 ![넘블 14조  WANTU 원투_page-0002](https://user-images.githubusercontent.com/61671343/206655022-46c2b88f-e101-4b5c-aa6f-1bdcc1508565.jpg)
